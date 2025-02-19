@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Hr Autmation">
+    <test name="Admin Login">
+        <classes >
+            <class name="Test_Cases.All_Test_Cases">
+            </class>
+        </classes>
+    </test>
+</suite>
